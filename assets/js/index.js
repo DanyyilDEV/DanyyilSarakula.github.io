@@ -98,7 +98,7 @@ const translations = {
     }
 };
 
-let currentLanguage = 'en';
+let currentLanguage = 'it';
 let currentTheme = 'light';
 const themeToggle = document.getElementById('themeToggle');
 const langToggle = document.getElementById('langToggle');
