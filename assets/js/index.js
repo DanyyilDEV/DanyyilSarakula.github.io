@@ -98,8 +98,8 @@ const translations = {
     }
 };
 
-let currentLanguage = 'it';
-let currentTheme = 'dark';
+let currentLanguage = 'en';
+let currentTheme = 'light';
 const themeToggle = document.getElementById('themeToggle');
 const langToggle = document.getElementById('langToggle');
 const navbar = document.querySelector('.navbar');
